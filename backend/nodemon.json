@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "Meet",
+    "DB_PASSWORD": "meet",
+    "DB_NAME": "places",
+    "GOOGLE_API_KEY": "AIzaSyCbDmEUrWWVrQTBRe926zHdii455LWTbfg",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
